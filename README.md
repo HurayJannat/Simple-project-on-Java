@@ -6,6 +6,10 @@ This project is a simple Java-based quiz application designed to manage quizzes 
 
 ## Features
 
+https://github.com/user-attachments/assets/bde101cc-c10b-4250-87d6-f37bac7b99c8
+
+
+
 - **Admin Capabilities**:
   - Add multiple MCQ questions to the quiz bank.
   - Each question can have four options and an associated answer key.
@@ -15,6 +19,11 @@ This project is a simple Java-based quiz application designed to manage quizzes 
   - Take a quiz consisting of 10 randomly selected questions from the quiz bank.
   - Receive a score based on the number of correct answers.
   - Immediate feedback on quiz performance.
+
+
+### Video preview 
+https://drive.google.com/file/d/1Lvdknjy9iFrRp1BWRYNOjDUIN9T6Gyqq/view?usp=sharing 
+
 
 ## Project Structure
 
